@@ -1,0 +1,12 @@
+# llms.txt for brisbane-renovation-t2-102
+
+This page is an independent T2 cloudlink node in a chain structure.
+
+## Primary link
+- Links to feeder T2 (middle): https://brisbane-renovation-t2-101.netlify.app
+
+## Context
+- Node role: feeder (deepest)
+- Money target: brisbanerenovation.com.au (T1 links to money, this T2 does not)
+- Tier: T2
+- Structure: chain
